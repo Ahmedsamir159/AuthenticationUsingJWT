@@ -1,0 +1,14 @@
+F:\ahmed\AspNetCoreApiStarter-master\src\Web.Api.Infrastructure\bin\Debug\netcoreapp2.1\Web.Api.Infrastructure.deps.json
+F:\ahmed\AspNetCoreApiStarter-master\src\Web.Api.Infrastructure\bin\Debug\netcoreapp2.1\Web.Api.Infrastructure.runtimeconfig.json
+F:\ahmed\AspNetCoreApiStarter-master\src\Web.Api.Infrastructure\bin\Debug\netcoreapp2.1\Web.Api.Infrastructure.runtimeconfig.dev.json
+F:\ahmed\AspNetCoreApiStarter-master\src\Web.Api.Infrastructure\bin\Debug\netcoreapp2.1\Web.Api.Infrastructure.dll
+F:\ahmed\AspNetCoreApiStarter-master\src\Web.Api.Infrastructure\bin\Debug\netcoreapp2.1\Web.Api.Infrastructure.pdb
+F:\ahmed\AspNetCoreApiStarter-master\src\Web.Api.Infrastructure\bin\Debug\netcoreapp2.1\Web.Api.Core.dll
+F:\ahmed\AspNetCoreApiStarter-master\src\Web.Api.Infrastructure\bin\Debug\netcoreapp2.1\Web.Api.Core.pdb
+F:\ahmed\AspNetCoreApiStarter-master\src\Web.Api.Infrastructure\obj\Debug\netcoreapp2.1\Web.Api.Infrastructure.csprojAssemblyReference.cache
+F:\ahmed\AspNetCoreApiStarter-master\src\Web.Api.Infrastructure\obj\Debug\netcoreapp2.1\Web.Api.Infrastructure.csproj.CoreCompileInputs.cache
+F:\ahmed\AspNetCoreApiStarter-master\src\Web.Api.Infrastructure\obj\Debug\netcoreapp2.1\Web.Api.Infrastructure.AssemblyInfoInputs.cache
+F:\ahmed\AspNetCoreApiStarter-master\src\Web.Api.Infrastructure\obj\Debug\netcoreapp2.1\Web.Api.Infrastructure.AssemblyInfo.cs
+F:\ahmed\AspNetCoreApiStarter-master\src\Web.Api.Infrastructure\obj\Debug\netcoreapp2.1\Web.Api.Infrastructure.csproj.CopyComplete
+F:\ahmed\AspNetCoreApiStarter-master\src\Web.Api.Infrastructure\obj\Debug\netcoreapp2.1\Web.Api.Infrastructure.dll
+F:\ahmed\AspNetCoreApiStarter-master\src\Web.Api.Infrastructure\obj\Debug\netcoreapp2.1\Web.Api.Infrastructure.pdb

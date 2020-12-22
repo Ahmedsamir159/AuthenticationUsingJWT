@@ -1,0 +1,164 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\ahmed\\AspNetCoreApiStarter-master\\src\\Web.Api.Infrastructure\\Web.Api.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "F:\\ahmed\\AspNetCoreApiStarter-master\\src\\Web.Api.Core\\Web.Api.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ahmed\\AspNetCoreApiStarter-master\\src\\Web.Api.Core\\Web.Api.Core.csproj",
+        "projectName": "Web.Api.Core",
+        "projectPath": "F:\\ahmed\\AspNetCoreApiStarter-master\\src\\Web.Api.Core\\Web.Api.Core.csproj",
+        "packagesPath": "C:\\Users\\Samir\\.nuget\\packages\\",
+        "outputPath": "F:\\ahmed\\AspNetCoreApiStarter-master\\src\\Web.Api.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Samir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "autofac": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "F:\\ahmed\\AspNetCoreApiStarter-master\\src\\Web.Api.Infrastructure\\Web.Api.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ahmed\\AspNetCoreApiStarter-master\\src\\Web.Api.Infrastructure\\Web.Api.Infrastructure.csproj",
+        "projectName": "Web.Api.Infrastructure",
+        "projectPath": "F:\\ahmed\\AspNetCoreApiStarter-master\\src\\Web.Api.Infrastructure\\Web.Api.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Samir\\.nuget\\packages\\",
+        "outputPath": "F:\\ahmed\\AspNetCoreApiStarter-master\\src\\Web.Api.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Samir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "F:\\ahmed\\AspNetCoreApiStarter-master\\src\\Web.Api.Core\\Web.Api.Core.csproj": {
+                "projectPath": "F:\\ahmed\\AspNetCoreApiStarter-master\\src\\Web.Api.Core\\Web.Api.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0-preview2-35157, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0-preview2-35157, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.0-preview2-35157, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.0-preview2-35157, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[2.2.0-preview2-35157, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.2.0-preview2-35157, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[5.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.5.10, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.2.4, )"
+            },
+            "automapper": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

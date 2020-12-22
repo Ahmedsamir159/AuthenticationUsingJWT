@@ -1,0 +1,9 @@
+F:\ahmed\AspNetCoreApiStarter-master\src\Web.Api.Core\bin\Debug\netcoreapp2.1\Web.Api.Core.deps.json
+F:\ahmed\AspNetCoreApiStarter-master\src\Web.Api.Core\bin\Debug\netcoreapp2.1\Web.Api.Core.dll
+F:\ahmed\AspNetCoreApiStarter-master\src\Web.Api.Core\bin\Debug\netcoreapp2.1\Web.Api.Core.pdb
+F:\ahmed\AspNetCoreApiStarter-master\src\Web.Api.Core\obj\Debug\netcoreapp2.1\Web.Api.Core.csproj.CoreCompileInputs.cache
+F:\ahmed\AspNetCoreApiStarter-master\src\Web.Api.Core\obj\Debug\netcoreapp2.1\Web.Api.Core.AssemblyInfoInputs.cache
+F:\ahmed\AspNetCoreApiStarter-master\src\Web.Api.Core\obj\Debug\netcoreapp2.1\Web.Api.Core.AssemblyInfo.cs
+F:\ahmed\AspNetCoreApiStarter-master\src\Web.Api.Core\obj\Debug\netcoreapp2.1\Web.Api.Core.dll
+F:\ahmed\AspNetCoreApiStarter-master\src\Web.Api.Core\obj\Debug\netcoreapp2.1\Web.Api.Core.pdb
+F:\ahmed\AspNetCoreApiStarter-master\src\Web.Api.Core\obj\Debug\netcoreapp2.1\Web.Api.Core.csprojAssemblyReference.cache
